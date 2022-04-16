@@ -1,0 +1,2 @@
+# Common mistakes with React Testing Library
+> This is a translation of the original post [Common mistakes with React Testing Library]<https://kentcdodds.com/blog/common-mistakes-with-react-testing-library> by [Kent C. Dodds]<https://kentcdodds.com/>.
